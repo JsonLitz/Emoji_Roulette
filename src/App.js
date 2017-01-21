@@ -12,7 +12,7 @@ class App extends Component {
           <h2>Welcome to Emoji Roulette</h2>
         </div>
         <p className="App-intro">
-          This is just a test
+          Click start for a new game!
         </p>
       </div>
     );
